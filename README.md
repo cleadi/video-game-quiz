@@ -15,6 +15,8 @@
 
 This is a simple video game quiz app built using TypeScript & React. I followed the tutorial given here: https://youtu.be/F2JCjVSZlG0 by Thomas Weibenfalk on the freeCodeCamp.org YouTube channel.
 
+[Launch quiz 🚀](https://cleadi.github.io/video-game-quiz/)
+
 ## Built using
 
 - TypeScript
