@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/video-game-quiz/static/js/main.48a9b079.chunk.js",
+    "main.js.map": "/video-game-quiz/static/js/main.48a9b079.chunk.js.map",
+    "runtime-main.js": "/video-game-quiz/static/js/runtime-main.a922b6b6.js",
+    "runtime-main.js.map": "/video-game-quiz/static/js/runtime-main.a922b6b6.js.map",
+    "static/js/2.7020c005.chunk.js": "/video-game-quiz/static/js/2.7020c005.chunk.js",
+    "static/js/2.7020c005.chunk.js.map": "/video-game-quiz/static/js/2.7020c005.chunk.js.map",
+    "index.html": "/video-game-quiz/index.html",
+    "precache-manifest.735fd7a626eca038fe3840097cef96cc.js": "/video-game-quiz/precache-manifest.735fd7a626eca038fe3840097cef96cc.js",
+    "service-worker.js": "/video-game-quiz/service-worker.js",
+    "static/js/2.7020c005.chunk.js.LICENSE.txt": "/video-game-quiz/static/js/2.7020c005.chunk.js.LICENSE.txt",
+    "static/media/micha-frank.jpg": "/video-game-quiz/static/media/micha-frank.3225c99b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a922b6b6.js",
+    "static/js/2.7020c005.chunk.js",
+    "static/js/main.48a9b079.chunk.js"
+  ]
+}
